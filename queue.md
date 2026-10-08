@@ -8,3 +8,4 @@ Triage: on desktop, move entries into the section tables and delete them from he
 ---
 
 - https://www.obsidianui.dev/
+- https://ascii.rest/ asci designs and forms 
